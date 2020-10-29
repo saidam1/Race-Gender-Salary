@@ -4,6 +4,15 @@
 
 # Race-Gender-Salary
 
+## Table of Content
+
+* Overview
+* Goals
+* Motivation and Background
+* Data
+* Software and Packages 
+* Technical Notebook
+
 ## Overview 
 Is it possible for us to create a machine learning algorithm that will estimate someone's salary based on their education, family status, and race?
 
@@ -12,15 +21,15 @@ You would not be surprised if someone were to tell you that men get paid higher 
 ## Goals
 
 * Shine light on the pay discrimination that occurs in the workplace.
-* Try to use predicting models to really understand the discrimination in pay when it comes to race and gender.
+* Try to use predicting models to really understand the discrimination in pay when it comes to race and gender. 
 
 ## Motivation & Background
 
-There was a big schock in the United States and the world when Donald Trump won the 2016 presidential election. It shed light onto the racisim and sexism that has been long instilled in a lot of Americans and it has been passed generations to generations and is still happening. Four long years later we are back again in the midst of the elections for the 2020 presidential election. Now more than ever we see the racism not just in America but around the world increasing at a rapid rate. Maybe it's not actually increasing, but people are not afraid to show how they truly feel when there is a president that is blatantly supporting White Supremacy and Male superiority. 
+There was a big schock in the United States and the world when Donald Trump won the 2016 presidential election. It shed light onto the racisim and sexism that has been long instilled in a lot of Americans and it has been passed generations to generations and is still happening. Four long years later we are back again in the midst of the elections for the 2020 presidential election. Now more than ever we see the racism not just in America but around the world increasing at a rapid rate. Maybe it's not actually increasing, but people are not afraid to show how they truly feel when there is a president that is blatantly supporting White Supremacy and Male superiority.  
 
-The past two reports that I had done ties with racism in America. This one will dive a little deeper to see the instutitionalized discrimination that occurs when it comes to salary bias to African Americans and Women in the United States.
+The past two reports that I had done ties with racism in America. This one will dive a little deeper to see the instutitionalized discrimination that occurs when it comes to salary bias to African Americans and Women in the United States. 
 
-
+The wage gap between genders can be attributed to factors that are measurable, such as differences in seniority or experience, however these types of observable factors cannot explain most of the portion of the gap. It is this unexplainable portion that leads us to believe it is solely due to gender discrimination. At the same time there is a wage gap between races that led to persistent wage disparities between workers of color and Caucasians, which also has unexplainable factors that stem from bias and racism.
 
 
 ## Data
@@ -28,10 +37,7 @@ The past two reports that I had done ties with racism in America. This one will 
 The data that was used for this study was obtained from the adult income salary data from Kaggle (https://www.kaggle.com/mastmustu/income?select=train.csv).
 
 
-## Table of Content
-
-
-## Software Reuirenments -Packages used
+## Software Reuqirenments -Packages used
 
 * pandas
 * seaborn
