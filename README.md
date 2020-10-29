@@ -41,7 +41,24 @@ The data that was used for this study was obtained from the adult income salary 
 
 This data was extracted from the 1994 US census database, contatining information like occupation, age, native country, race, capital gain, capital loss, education, work class and more. 
 
-It contains both categorical and continuous features, the categorical columns being workclass, education, marital status, occupation, relationship, race, gender and native country. While the continuous columns being age, educationnum, capital gain, captial loss, and hours/week.
+It contains both categorical and continuous features.
+
+The categorical columns being:
+   * workclass
+   * education
+   * marital status
+   * occupation
+   * relationship
+   * race
+   * gender
+   * native country. 
+  
+While the continuous columns being 
+   * age
+   * educationnum
+   * capital gain
+   * captial loss
+   * hours/week.
 
 There was a total of 43957 rows and 15 columns.
 
