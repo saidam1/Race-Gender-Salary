@@ -22,6 +22,7 @@ You would not be surprised if someone were to tell you that men get paid higher 
 
 * Shine light on the pay discrimination that occurs in the workplace.
 * Try to use predicting models to really understand the discrimination in pay when it comes to race and gender. 
+* Using the number of people from our data which shows the of people in the different countries, however we are focused in just the US, will we be able to make a good prediction on someones income based on their race, gender and other information provided in the data like age, education, and family status.
 
 ## Motivation & Background
 
