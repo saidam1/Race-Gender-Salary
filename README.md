@@ -53,7 +53,7 @@ The categorical columns being:
    * gender
    * native country. 
   
-While the continuous columns being 
+While the continuous columns being: 
    * age
    * educationnum
    * capital gain
@@ -67,6 +67,7 @@ There was a total of 43957 rows and 15 columns.
 
 * pandas
 * seaborn
+* statistics
 * matplotlib
 * sklearn
   * model_selection
