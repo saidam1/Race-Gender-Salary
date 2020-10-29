@@ -1,3 +1,7 @@
+![image](https://user-images.githubusercontent.com/70491460/97521886-dbd4f700-1974-11eb-9dad-d97f84414632.png)
+
+
+
 # Race-Gender-Salary
 
 ## Overview 
