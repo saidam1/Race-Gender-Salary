@@ -3,7 +3,6 @@
 
 
 # Race-Gender-Salary
-### By Saida Muktar
 
 ## Table of Content
 
@@ -78,4 +77,4 @@ There was a total of 43957 rows and 15 columns.
   * GradientBoostingClassifier
 
 ## Technical Notebook
-https://github.com/saidam1/Race-Gender-Salary/blob/main/Race%2C%20Gender%2C%20and%20Salary%20Technical%20Notebook.ipynb
+https://github.com/saidam1/Race-Gender-Salary/blob/main/Race%2C%20Gender%2C%20and%20Salary%20Technical%20Notebook%20(1).ipynb
