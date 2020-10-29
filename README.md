@@ -52,3 +52,5 @@ The data that was used for this study was obtained from the adult income salary 
   * RandomForestClassifier
   * GradientBoostingClassifier
 
+## Technical Notebook
+https://github.com/saidam1/Race-Gender-Salary/blob/main/Race%2C%20Gender%2C%20and%20Salary%20Technical%20Notebook.ipynb
