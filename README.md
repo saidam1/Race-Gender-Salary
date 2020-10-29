@@ -32,6 +32,7 @@ The past two reports that I had done ties with racism in America. This one will 
 
 The wage gap between genders can be attributed to factors that are measurable, such as differences in seniority or experience, however these types of observable factors cannot explain most of the portion of the gap. It is this unexplainable portion that leads us to believe it is solely due to gender discrimination. At the same time there is a wage gap between races that led to persistent wage disparities between workers of color and Caucasians, which also has unexplainable factors that stem from bias and racism.
 
+https://www.americanprogress.org/issues/women/news/2019/08/22/473775/racism-sexism-combine-shortchange-working-black-women/
 
 ## Data
 
