@@ -22,11 +22,11 @@ You would not be surprised if someone were to tell you that men get paid higher 
 
 * Shine light on the pay discrimination that occurs in the workplace.
 * Try to use predicting models to really understand the discrimination in pay when it comes to race and gender. 
-* Using the number of people from our data which shows the of people in the different countries, however we are focused in just the US, will we be able to make a good prediction on someones income based on their race, gender and other information provided in the data like age, education, and family status.
+* Using the number of people from our data, will we be able to make a good prediction about someone's income based on their race, gender and other information provided in the data like age, education, family statues etc...
 
 ## Motivation & Background
 
-There was a big schock in the United States and the world when Donald Trump won the 2016 presidential election. It shed light onto the racisim and sexism that has been long instilled in a lot of Americans and it has been passed generations to generations and is still happening. Four long years later we are back again in the midst of the elections for the 2020 presidential election. Now more than ever we see the racism not just in America but around the world increasing at a rapid rate. Maybe it's not actually increasing, but people are not afraid to show how they truly feel when there is a president that is blatantly supporting White Supremacy and Male superiority.  
+There was a big schock in the United States and the world when Donald Trump won the 2016 presidential election. It shed light onto the racisim and sexism that has been long instilled in a lot of Americans and it has been passed generations to generations and is still happening. Four long years later we are back again in the midst of the elections for the 2020 presidential election. Now more than ever we see the racism and sexism not just in America but around the world increasing at a rapid rate. Maybe it's not actually increasing, but people are no longer afraid to show how they truly feel when there is a president that is blatantly supporting White Supremacy and Male superiority.  
 
 The past two reports that I had done ties with racism in America. This one will dive a little deeper to see the instutitionalized discrimination that occurs when it comes to salary bias to African Americans and Women in the United States. 
 
@@ -38,7 +38,7 @@ https://www.americanprogress.org/issues/women/news/2019/08/22/473775/racism-sexi
 
 The data that was used for this study was obtained from the adult income salary data from Kaggle (https://www.kaggle.com/mastmustu/income?select=train.csv).
 
-This data was extracted from the 1994 US census database, contatining information like occupation, age, native country, race, capital gain, capital loss, education, work class and more. 
+This data was extracted from the US census database, contatining information like occupation, age, native country, race, capital gain, capital loss, education, work class and more. 
 
 It contains both categorical and continuous features.
 
