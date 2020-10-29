@@ -39,6 +39,12 @@ https://www.americanprogress.org/issues/women/news/2019/08/22/473775/racism-sexi
 
 The data that was used for this study was obtained from the adult income salary data from Kaggle (https://www.kaggle.com/mastmustu/income?select=train.csv).
 
+This data was extracted from the 1994 US census database, contatining information like occupation, age, native country, race, capital gain, capital loss, education, work class and more. 
+
+It contains both categorical and continuous features, the categorical columns being workclass, education, marital status, occupation, relationship, race, gender and native country. While the continuous columns being age, educationnum, capital gain, captial loss, and hours/week.
+
+There was a total of 43957 rows and 15 columns.
+
 
 ## Software Reuqirenments -Packages used
 
