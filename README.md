@@ -3,6 +3,7 @@
 
 
 # Race-Gender-Salary
+### By Saida Muktar
 
 ## Table of Content
 
