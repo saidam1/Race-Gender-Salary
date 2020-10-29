@@ -14,7 +14,7 @@
 * Technical Notebook
 
 ## Overview 
-Is it possible for us to create a machine learning algorithm that will estimate someone's salary based on their education, family status, and race?
+Is it possible for us to create a machine learning algorithm that will estimate someone's salary based on their race, gender, education, age, and some other underlying facts about the person?
 
 You would not be surprised if someone were to tell you that men get paid higher than women in the work industry, or that Caucasians get paid higher than African Americans. It has just become a fact at this point. Are there exceptions to this? If not is there a way for us to predict what a person is making based on their age, education, gender and race? If so how accurate will it be?
 
